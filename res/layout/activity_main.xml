@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7ffa2"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/main_fl_introduction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/content_selector" >
+
+        <TextView
+            android:id="@+id/main_tv_introduct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/contents_ch0"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/main_fl_ch1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/content_selector"
+            android:paddingLeft="30dip"
+            android:paddingRight="30dip" >
+
+            <TextView
+                android:id="@+id/main_tv_ch1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/contents_ch1"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/main_fl_ch2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/content_selector"
+            android:paddingLeft="30dip"
+            android:paddingRight="30dip" >
+
+            <TextView
+                android:id="@+id/main_tv_ch2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/contents_ch2"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/main_fl_ch3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/content_selector" >
+
+        <TextView
+            android:id="@+id/main_tv_ch3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="30dip"
+            android:paddingRight="30dip"
+            android:text="@string/contents_ch3"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </FrameLayout>
+
+</LinearLayout>

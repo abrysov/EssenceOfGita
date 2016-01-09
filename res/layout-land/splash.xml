@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/pink"
+    android:orientation="vertical" >
+<TextView
+        android:id="@+id/splash_tv_top_subheader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="10dip"
+        android:text="@string/splash_top_subtitle"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/splash_tv_title_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dip"
+        android:text="@string/splash_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/purpure" />
+
+    <FrameLayout
+        android:id="@+id/splash_fl_general"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:foreground="@drawable/essence_of_bg"
+        android:foregroundGravity="center" >
+
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/splash_tv_bottom_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:layout_marginLeft="40dip"
+        android:layout_marginRight="40dip"
+        android:text="@string/Bottom_title_on_splash"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>
