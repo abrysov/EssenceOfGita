@@ -8,6 +8,9 @@ android {
         applicationId "org.abrysov.android.essenceofgita"
         minSdkVersion 10
         targetSdkVersion 23
+
+        versionCode 23
+        versionName "1.1"
     }
 
     buildTypes {
