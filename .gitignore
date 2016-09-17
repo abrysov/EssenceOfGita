@@ -1,6 +1,4 @@
-bin
-gen
-out
 .idea
-.settings
+build
 *.iml
+local.properties

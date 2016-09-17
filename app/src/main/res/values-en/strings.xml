@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gita Essense</string>
+    <string name="menu_settings">C</string>
+    <string name="title_activity_main">Gita Essense</string>
+    <string name="Bottom_title_on_splash">Çré Çrémad Bhaktivedänta Näräyaëa 
+Gosvämé Mahäräja</string>
+    <string name="splash_title">The essense of the Bhagavad-Gita</string>
+    <string name="splash_top_subtitle">çré çré guru-gauräìgau jayataù</string>
+    <string name="contents_ch0">Introduction</string>
+    <string name="contents_ch1"> - Always Think of Me...man-manä bhava - </string>
+    <string name="contents_ch2"> - Become My Devotee...mad bhakto - </string>
+    <string name="contents_ch3"> - Worship Me and Offer Obeisances to Me
+...mad yäjé mäà namaskuru - </string>
+    <!-- Chapter 01 Text-->
+    <string name="chapter_01">
+
+
+</string>
+    <string name="introduction">
+TheBhagavad-gétä(The Song of God) was spoken by Çré Kåñëa 
+to his disciple and friend Arjuna, over 5,000 years ago, just 
+before the beginning of the epic Mahäbhärata War. Since that 
+time seekers of sacred wisdom have turned to the Bhagavad-gétä
+for answers to the most profound mysteries of life.
+The material in this book was taken from lectures on the 
+confidential meanings of the Bhagavad-gétä, given by one of 
+the most prominent spiritual authorities of the modern era, Çré 
+Çrémad Bhaktivedänta Näräyaëa Gosvämé Mahäräja. He is a 
+fully realized spiritual master in the Gauòéya Vaiñëava disciplic 
+succession, extant since the time of Lord Kåñëa Himself. Çréla 
+Bhaktivedänta Näräyaëa Gosvämé Mahäräja has been teaching 
+the ancient science of Kåñëa consciousness for over sixty years. 
+In these talks, Çréla Näräyaëa Mahäräja reveals truths of the 
+Bhagavad-gétäthat have been carefully maintained and handed 
+down in an unbroken succession of self-realized spiritual 
+teachers for the last 5,000 years. 
+The eminent 19th century saint and scholar, Çréla 
+Saccidänanda Bhaktivinoda Öhäkura has said in his explanation 
+of theGétä, “When the supremely compassionate Lord Çré Kåñëa, 
+whose vows are infallible, spoke Çrémad  Bhagavad-gétä, He 
+seemed to be directing His words at His friend Arjuna. Actually 
+however, He manifested this scripture for the deliverance of 
+the whole world. It is the very form of deep reflection on the 
+essential meanings of all the Vedas, and it is the sole means of 
+attaining the highest goal.”
+Citing Çré Kåñëa’s own words in the Bhagavad-gétäto 
+establish pure love and devotion to God as the topmost goal 
+of all spiritual seekers, Çréla Näräyaëa Mahäräja explains the 
+journey of the soul towards that ultimate level of spiritual 
+consciousness. Of all the verses in the Bhagavad-gétä, the most 
+revealing is in the final chapter where Çré Kåñëa says, “Always 
+think of Me, become My devotee, worship Me and offer your 
+respects unto Me. Thus you will certainly come to me. I promise 
+you this because you are My very dear friend.” (Bhagavad-gétä
+18.65) 
+In this verse are four distinct instructions, which offer 
+devotees of different eligibilities the opportunity to connect 
+with the Lord in perfect loving service. Çréla Näräyaëa 
+Mahäräja brings this subject to life through enchanting tales 
+from the lives of real devotees, some quite famous, and others 
+virtually unknown. The common theme is the extraordinary 
+connection they experience with the Lord by the bestowal of 
+His sweet, unlimited compassion and mercy. 
+It is the sincere hope and prayer of the editors that by hearing 
+these wonderful deliberations, all may find inspiration and 
+guidance in their own sacred calling. On behalf of the many 
+devotees serving in Gauòéya Vedänta Publications, we offer 
+this publication to Çréla Gurudeva, praying that he be pleased 
+with our efforts.
+Humbly in the service of Hari, Guru and Vaiñëavas,
+Bhaktivedänta Vaikhanas Mahäräja
+Çré Rädhäñöamé
+8th September, 2008
+Bangalore, India
+
+	</string>
+    <string name="selectlang_ru">Russian version</string>
+    <string name="selectlang_en">English version</string>
+</resources>
